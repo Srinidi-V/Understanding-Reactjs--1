@@ -1,0 +1,31 @@
+.info-basic{
+    font-size: 30;
+    text-align: left;
+    font-family: verdana;
+}
+
+.info-head{
+    font-size: 30;
+    text-align: center;
+    font-family: verdana;
+    color: blueviolet;
+}
+
+.info-simple{
+    font-size: 30;
+    font-family: verdana;
+    text-align: center;
+}
+
+.info-main{
+    font-size: 50;
+    color: crimson;
+    text-align: center;
+}
+
+.info-sub{
+    font-size: 35;
+    text-align: left;
+    color: blue;
+    font-family: verdana;
+}
